@@ -1,0 +1,12 @@
+package [pacote];
+
+public class [produto]Factory{
+	
+	public void [parametro1]{
+		
+	}
+	
+	
+	
+}
+

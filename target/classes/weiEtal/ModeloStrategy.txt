@@ -1,0 +1,12 @@
+package [pacote];
+
+public abstract class Strategy{
+	
+	public void [parametro1]{
+		
+	}
+	
+	
+	
+}
+
